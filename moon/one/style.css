@@ -482,7 +482,7 @@ blockquote {
   z-index: 1000;
   height: 60px;
   height: 3.75rem;
-  position: fixed;
+  position: relative;
   top: 0;
   right: 0;
   left: 0; }
